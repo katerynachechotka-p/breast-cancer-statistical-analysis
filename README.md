@@ -107,4 +107,4 @@ All statistical functions (mean, median, mode, standard deviation, skewness, exc
 
 ## About
 
-This work was completed as part of independent quantitative research during undergraduate studies in Physics and Computer Science at Minerva University. Both analyses are fully reproducible — all code is documented and results are validated against established statistical software outputs.
+This work was completed as part of independent quantitative research during undergraduate studies in Physics and Computer Science at Minerva University. Both analyses are fully reproducible - all code is documented and results are validated against established statistical software outputs.
